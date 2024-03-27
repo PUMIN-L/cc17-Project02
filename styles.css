@@ -1,0 +1,38 @@
+.navber {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 8px;
+    font-size: 36px;
+}
+
+img {
+    width: 500px;
+    height: 600px;
+}
+
+.table-user {
+    background-color: cadetblue;
+    border-collapse: collapse;
+
+}
+
+.table-user td, .table-user th {
+    border: 1px solid coral;
+    padding: 16px;
+    width: 250px;
+    text-align: center;
+}
+
+
+.homeWork{
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.homeWork td{
+    border: 2px solid rgb(0, 0, 0);
+    width: 250px;
+    height: 40px;
+}
